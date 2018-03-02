@@ -1,3 +1,2 @@
 # hello-heroku
-Try out GitHub with Heroku
-Init
+Try out GitHub with Heroku!
