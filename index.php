@@ -6,6 +6,6 @@
 </head>
 <body>
 	<h1>Hello Heroku</h1>
-	<?php echo "Verson: " . phpversion(); ?>
+	<?php echo "PHP verson: " . phpversion(); ?>
 </body>
 </html>
